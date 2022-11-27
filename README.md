@@ -64,14 +64,14 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-
-![193417358-a73ad98c-ed06-4fe7-b82e-b59476894ff8](https://user-images.githubusercontent.com/93427278/193596880-5e866dce-ee5c-4494-93a6-c95d575e7335.png)
-
-![193417370-46219869-66de-41d7-9ebe-01759e249799](https://user-images.githubusercontent.com/93427278/193596914-eef1d455-61e5-4b5c-bb11-0b155d9896bf.png)
-
-![193417133-86cce099-c86c-4dea-8782-99f556a686e1](https://user-images.githubusercontent.com/93427278/193596972-81302d60-6a8e-45e4-964c-1168e5ae31d3.png)
-
-![193417404-13f82485-76af-4760-b5b1-1f313257a85e](https://user-images.githubusercontent.com/93427278/193597010-51fbbe45-bf25-4f2d-aec6-90c431effc7a.png)
+![15](https://user-images.githubusercontent.com/93427278/204125884-c31f5fad-a769-4df8-96d7-c9adf0feeb26.png)
+![16](https://user-images.githubusercontent.com/93427278/204125892-c8ad8fef-18b4-4148-b408-3efa24080534.png)
+![3](https://user-images.githubusercontent.com/93427278/204125899-d0f84c26-38aa-47b7-af14-1b0c1068913c.png)
+![6](https://user-images.githubusercontent.com/93427278/204125957-7bb1c2f0-039a-442a-b876-a96119e074b0.png)
+![9](https://user-images.githubusercontent.com/93427278/204125941-679c2da7-f366-417c-95c0-0314493545ff.png)
+![11](https://user-images.githubusercontent.com/93427278/204125966-470b4ca5-63a9-4577-a5f9-294586b1695f.png)
+![13](https://user-images.githubusercontent.com/93427278/204125967-2852c73b-94ec-4bf4-82e4-5b28cce5db27.png)
 
 ## Result:
+
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
